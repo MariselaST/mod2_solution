@@ -4,6 +4,7 @@
 
 body {
   font-family: Arial, Helvetica, sans-serif;
+  padding: 1%;
 }
 
 h1,
@@ -83,6 +84,6 @@ section div p {
   section div.card {
     width: auto;
     float: none;
-    margin: 2.5%;
+    margin: 6.5%;
   }
 }
